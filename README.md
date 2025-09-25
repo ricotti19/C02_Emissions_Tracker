@@ -4,6 +4,7 @@
 - Name: Shriya Shenoj
 - GitHub: [@ricotti19](https://github.com/ricotti19)
 - Discord: [@ss031804](https://discord.com/users/ss031804)
+
 **Description**
 CO2 Emissions Tracker web app built with Python (Flask), HTML, and SQLite. 
 Users can log trips by selecting a city (from 20 Texas cities), entering the distance in kilometers, and choosing one of four vehicle types - hybrid/electric/diesel/gasoline. 
