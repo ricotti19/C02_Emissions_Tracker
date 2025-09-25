@@ -44,14 +44,15 @@ python c02_emissions_tracker.py
 ```
 
 ### Folder Structure
-
+```text
 DFR/
 ├── templates/
-│ └── index.html
+│   └── index.html
 ├── co2_emissions_tracker.py
 ├── co2data.db
 ├── trips.db
 └── README.md
+```
 
 ### Usage
 1. Select a city from the dropdown menu listing 20 Texas cities
