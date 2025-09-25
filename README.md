@@ -12,7 +12,7 @@ The app calculates CO2 emissions based on these inputs, stores the totals in the
 Demonstrates basic front-end web development and back-end database integration skills.
 ### Dependencies
 * [Python 3.13.7](https://www.python.org/downloads/release/python-3137/) or higher
-* [Flask 3.1.2](https://flask.palletsprojects.com/en/3.1.x/) — Install using `pip install flask`
+* [Flask 3.1.2](https://pypi.org/project/Flask/) — Install using `pip install flask`
 * [SQLite](https://www.sqlite.org/download.html) — Usually is pre-installed as part of Python
 * [Chart.js](https://www.chartjs.org/) — Included via CDN in index.html
 ### Installation
