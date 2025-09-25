@@ -41,6 +41,8 @@ python c02_emissions_tracker.py
 5. Open the app in browser:
 (Go to) http://127.0.0.1:5000 (to view the interactive app)
 
+```
+
 ### Folder Structure
 
 DFR/
@@ -57,4 +59,7 @@ DFR/
 3. Choose the vehicle type (hybrid/electric/diesel/gasoline)
 4. Click **Add Trip** to update the chart
 5. If needed, click **Reset All Emissions** to start over
+
+### Example of output
+<img width="1908" height="996" alt="image" src="https://github.com/user-attachments/assets/fe451b84-982f-4e04-b1b7-02e3feef55d4" />
 
