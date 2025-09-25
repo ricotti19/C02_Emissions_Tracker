@@ -16,6 +16,7 @@ Demonstrates basic front-end web development and back-end database integration s
 * [SQLite](https://www.sqlite.org/download.html) — Usually is pre-installed as part of Python
 * [Chart.js](https://www.chartjs.org/) — Included via CDN in index.html
 ### Installation
+
 1. Clone the repository:
 
 ```bash
