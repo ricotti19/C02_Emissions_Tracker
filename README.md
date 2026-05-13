@@ -1,4 +1,4 @@
-## CO2 Emissions Tracker
+## CO2 Emissions Tracker (updated from Sep 2025)
 
 ### Web app built with Python (Flask), HTML, and SQLite where users can log trips by selecting from 20 Texas cities, enter the distance in kilometers, and choose one of four given vehicle types to view an interactive bar chart that compares emissions across cities.
 
