@@ -39,3 +39,5 @@ C02_Emissions_Tracker/
    ```bash
    http://127.0.0.1:5000
    ```
+## Example of Output
+<img width="1280" height="791" alt="image" src="https://github.com/user-attachments/assets/30a2cd3f-f6cc-49ef-85eb-8eacf4dcf7ff" />
